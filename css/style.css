@@ -1,0 +1,626 @@
+.header .wrapper
+{
+width:80%;
+margin:auto;
+}
+.banner .wrapper
+{
+width:80%;
+margin:auto;
+}
+.logo .wrapper
+{
+width:80%;
+margin:auto;
+}
+.provident.wrapper
+{
+width:80%;
+margin:auto;
+}
+.contentbox.wrapper
+{
+width:80%;
+margin:auto;
+}
+.services.wrapper
+{
+width:80%;
+margin:auto;
+}
+.calltoaction.wrapper
+{
+width:80%;
+margin:auto;
+}
+.testimonials.wrapper
+{
+width:80%;
+margin:auto;
+}
+.portfolio .wrapper
+{
+width:80%;
+margin:auto;
+}
+.team .wrapper
+{
+width:80%;
+margin:auto;
+}
+.pricing .wrapper
+{
+width:80%;
+margin:auto;
+}
+.faq .wrapper
+{
+width:80%;
+margin:auto;
+}
+.contact .wrapper
+{
+width:80%;
+margin:auto;
+}
+.about .wrapper
+{
+width:80%;
+margin:auto;
+}
+.copyright .wrapper
+{
+width:80%;
+margin:auto;
+}
+
+.header
+{
+	background-color:MediumPurple;
+	height:98px;
+}
+.header-fc
+{ 
+	
+	display:flex;
+	justify-content:space-between;
+}
+.header .header-fc .header-logo
+{
+	background-color:plum;
+	width:70px;
+	height:58px;
+	align-items:left;
+	margin-top:5px;
+}
+.header .header-fc .header-navi
+{
+	background-color:plum;
+	width:473px;
+	height:58px;
+	align-items:center;
+	margin-top:5px;
+}
+.header .header-fc .header-box
+{
+	background-color:plum;
+	width:100px;
+	height:58px;
+	align-items:right;
+	margin-top:5px;
+}
+.banner
+{
+	background-color:gray;
+	height:432px;
+}
+.banner .banner-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	margin-top:10px;
+	flex-wrap:wrap;
+}
+.banner .banner-fc .boxA
+{
+	background-color:white;
+	height:160px;
+	width:580px;
+	margin-top:20px;
+}
+.banner .bannera-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	margin-top:20px;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.banner .bannera-fc .boxB
+{
+	background-color:white;
+	height:162px;
+	width:160px;
+}
+.banner .bannera-fc .boxC
+{
+	background-color:white;
+	height:162px;
+	width:160px;
+}
+.banner .bannera-fc .boxD
+{
+	background-color:white;
+	height:162px;
+	width:160px;
+}
+.banner .bannera-fc .boxE
+{
+	background-color:white;
+	height:162px;
+	width:160px;
+}
+.banner .bannera-fc .boxF
+{
+	background-color:white;
+	height:162px;
+	width:160px;
+}
+.provident
+{
+	background-color:purple;
+	height:544px;
+}
+.provident .provident-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+}
+.provident .provident-fc .logoA
+{
+	width:560px;
+	height:425px;
+	margin-top:50px;
+	background-color:white;
+	text-align:center;
+}
+.provident .provident-fc .logoB
+{
+	background-color:white;
+	width:550px;
+	height:410px;
+	text-align:center;
+	margin-top:50px;
+}
+.logo
+{
+	background-color:pink;
+	height:104px;
+}
+.logo .logo-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+}
+.logo .logo-fc .logoA
+{
+	width:102px;
+	height:41px;
+	margin-top:10px;
+	background-color:white;
+	text-align:center;
+}
+.logo .logo-fc .logoB
+{
+	background-color:white;
+	width:102px;
+	height:41px;
+	text-align:center;
+	margin-top:10px;
+}
+.logo .logo-fc .logoC
+{
+	background-color:white;
+	width:102px;
+	height:41px;
+	margin-top:10px;
+	text-align:center;
+}
+.logo .logo-fc .logoD
+{
+	width:102px;
+	height:41px;
+	background-color:white;
+	margin-top:10px;
+	text-align:center;
+}
+.logo .logo-fc .logoE
+{
+	background-color:white;
+	width:102px;
+	height:41px; 
+	text-align:center;
+	margin-top:10px;
+}
+.logo .logo-fc .logoF
+{
+	background-color:white;
+	width:102px;
+	height:41px; 
+	text-align:center;
+	margin-top:10px;
+}
+.test
+{
+	background-color:gray;
+	height:610px;
+}
+.test .test-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.test .test-fc .boxA
+{
+	width:500px;
+	height:490px;
+	margin-top:40px;
+	background-color:white;
+	text-align:center;
+}
+.test .test-fc .boxB
+{
+	background-color:white;
+	width:550px;
+	height:476px;
+	text-align:center;
+	margin-top:40px;
+}
+.services
+{
+	background-color:purple;
+	height:927px;
+}
+.services .services-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.services .services-fc .boxA
+{
+	width:357px;
+	height:336px;
+	margin-top:100px;
+	background-color:white;
+	text-align:center;
+}
+.services .services-fc .boxB
+{
+	background-color:white;
+	width:357px;
+	height:336px;
+	text-align:center;
+	margin-top:100px;
+}
+.services .services-fc .boxC
+{
+	background-color:white;
+	width:357px;
+	height:336px;
+	margin-top:100px;
+	text-align:center;
+}
+.services .services-fc .boxD
+{
+	width:357px;
+	height:336px;
+	background-color:white;
+	margin-top:50px;
+	text-align:center;
+}
+.services .services-fc .boxE
+{
+	width:357px;
+	height:336px;
+	background-color:white;
+	margin-top:50px;
+	text-align:center;
+}
+.services .services-fc .boxF
+{
+	width:357px;
+	height:336px;
+	background-color:white;
+	margin-top:50px;
+	text-align:center;
+}
+.calltoaction
+{
+	background-color:yellow;
+	height:283px;
+}
+.calltoaction .calltoaction-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.calltoaction .calltoaction-fc .boxA
+{
+	width:202px;
+	height:84px;
+	margin-top:120px;
+	background-color:white;
+	text-align:center;
+}
+.portfolio
+{
+	background-color:MediumPurple;
+	height:1436px;
+}
+.portfolio .portfolio-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.portfolio .portfolio-fc .boxA
+{
+	width:300px;
+	height:360px;
+	margin-top:70px;
+	background-color:white;
+}
+.portfolio .portfolio-fc .boxB
+{
+	background-color:white;
+	width:300px;
+	height:276px;
+	text-align:center;
+	margin-top:70px;
+}
+.portfolio .portfolio-fc .boxC
+{
+	background-color:white;
+	width:300px;
+	height:266px;
+	margin-top:70px;
+}
+.portfolio .portfolio-fc .boxD
+{
+	width:300px;
+	height:530px;
+	background-color:white;
+	margin-top:60px;
+}
+.portfolio .portfolio-fc .boxE
+{
+	background-color:white;
+	width:300px;
+	height:535px;
+	margin-top:0px;
+}
+.portfolio .portfolio-fc .boxF
+{
+	width:300px;
+	height:386px;
+	background-color:white;
+	margin-top:10px;
+}
+.portfolio .portfolio-fc .boxG
+{
+	width:300px;
+	height:266px;
+	background-color:white;
+	margin-top:80px;
+}
+.portfolio .portfolio-fc .boxH
+{
+	background-color:white;
+	width:300px;
+	height:266px;
+	margin-top:80px;
+}
+.portfolio .portfolio-fc .boxI
+{
+	width:300px;
+	height:266px;
+	background-color:white;
+	margin-top:80px;
+}
+.providentA
+{
+	background-color:pink;
+	height:653px;
+}
+.providentA .providentA-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.providentA .providentA-fc .boxA
+{
+	width:477px;
+	height:500px;
+	margin-top:60px;
+	background-color:white;
+	text-align:center;
+}
+.providentA .providentA-fc .boxB
+{
+	background-color:white;
+	width:679px;
+	height:460px;
+	text-align:center;
+	margin-top:60px;
+}
+.about
+{
+	background-color:purple;
+	height:452px;
+}
+.about .about-fc
+{
+	display:flex;
+	justify-content:space-evenly;
+	flex-wrap:wrap;
+}
+.about .about-fc .boxA
+{
+	background-color:white;
+	height:111px;
+	width:160px;
+	margin-top:50px;
+}
+.about .about-fc .boxB
+{
+	background-color:white;
+	height:90px;
+	width:956px;
+	margin-top:50px;
+	margin-bottom:25px;
+}
+.team
+{
+	background-color:gray;
+	height:660px;
+	
+}
+.team .team-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.team .team-fc .boxs
+{
+	text-align:center;
+	margin-top:80px;
+	margin-top:90px;
+}
+.team .team-fc .boxA
+{
+	width:220px;
+	height:350px;
+	margin-top:150px;
+	background-color:white;
+	margin-right:40px;
+}
+.team .team-fc .boxB
+{
+	background-color:white;
+	width:220px;
+	height:350px;
+	margin-top:150px;
+	margin-right:40px;
+}
+.team .team-fc .boxC
+{
+	background-color:white;
+	width:220px;
+	height:350px;
+	margin-top:150px;
+	margin-right:40px;
+}
+.team .team-fc .boxD
+{
+	width:220px;
+	height:350px;
+	background-color:white;
+	margin-top:150px;
+	margin-right:40px;
+}
+.contact
+{
+	background-color:MediumPurple;
+	height:665px;
+}
+.contact .contact-fc
+{
+	display:flex;
+	flex-direction:row;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.contact .contact-fc .boxA
+{
+	width:300px;
+	height:294px;
+	margin-top:100px;
+	background-color:white;
+}
+.contact .contact-fc .boxB
+{
+	background-color:white;
+	width:650px;
+	height:377px;
+	text-align:center;
+	margin-top:100px;
+}
+.data
+{
+	background-color:gray;
+	height:350px;
+}
+.data .data-fc
+{
+	display:flex;
+	flex-direction:row;
+	justify-content:space-evenly;
+	text-align:center;
+}
+.data .data-fc .boxA
+{
+	width:205px;
+	height:257px;
+	margin-top:50px;
+	background-color:white;
+	margin-right:40px;
+}
+.data .data-fc .boxB
+{
+	background-color:white;
+	width:172px;
+	height:263px;
+	margin-top:50px;
+	margin-right:40px;
+}
+.data .data-fc .boxC
+{
+	background-color:white;
+	width:193px;
+	height:254px;
+	margin-top:50px;
+	margin-right:40px;
+}
+.data .data-fc .boxD
+{
+	width:405px;
+	height:249px;
+	background-color:white;
+	margin-top:50px;
+	margin-left:70px;
+	margin-right:40px;
+}
+.copyright
+{
+	background-color:MediumPurple;
+	height:134px;
+}
